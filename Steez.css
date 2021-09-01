@@ -1,0 +1,62 @@
+html{ 
+    background-color: black;
+}
+
+a :hover {
+    opacity: 100%;
+}
+ 
+header {
+    text-align: center;
+}
+.mobile-nav {
+    text-transform: uppercase;
+    text-decoration: gold;
+    padding: 20px 30px 30px 30px;
+    display: block;
+    border-top: 0,5cm;
+    border-bottom: 0,5cm;
+    font-size: 0.8cm;
+    color: rgb(173, 173, 173);
+    opacity: 50%;
+}
+div :hover {
+    opacity:100%;
+}
+img {
+    padding-top: 0.5cm;
+    width: 500px;
+    height: 500px;
+}
+.contact {
+    padding-top: 10cm;
+    font-size: 0.8cm;
+    color: lavender;
+    text-align:center;
+    vertical-align: text-bottom;
+    list-style: none;
+    margin-bottom: 10px;
+}
+
+body {
+    color: cornsilk;
+    text-align: center;
+    font-size: 2px;
+}
+  
+li {
+    list-style: none;
+    margin: 10px 40px;
+    display: inline-block;
+    font-size: 35px;
+    padding: 10px 10px;
+    color:cornsilk;
+    margin-bottom: 0;
+    opacity: 50%;
+}
+a{
+    color: cornsilk;
+}
+li:hover {
+    opacity: 100%;
+}
